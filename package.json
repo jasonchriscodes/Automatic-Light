@@ -1,0 +1,22 @@
+{
+  "name": "automatic-light",
+  "version": "1.0.0",
+  "description": "ENSE601 upskilling project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonchriscodes/Automatic-Light.git"
+  },
+  "author": "Jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonchriscodes/Automatic-Light/issues"
+  },
+  "homepage": "https://github.com/jasonchriscodes/Automatic-Light#readme",
+  "dependencies": {
+    "onoff": "^6.0.3"
+  }
+}
